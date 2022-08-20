@@ -45,6 +45,8 @@ goto menu
 
 :opcao4
 cls
+echo --version - consultar a versao
+echo --help - menu de comandos
 msg * Voce foi hackeado!
 start https://64.media.tumblr.com/3110b9d01991caaae6603b3bee04c365/tumblr_mz86fvOfCz1r9lsn2o1_500.gif
 pause
